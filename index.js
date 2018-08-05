@@ -66,5 +66,7 @@ describe('sayHiToGrandma(string)'), function() {
 };
 
 function sayHiToGrandma(string) {
-  if (string.toLowerCase() === string)
+  if (string.toLowerCase() === string) {
+    
+  }
 }
