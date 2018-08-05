@@ -31,10 +31,7 @@ describe('logShout(string)', function() {
   })
 })
 
-function logShout(){}
 
-// Prints "HELLO{}"
-(function(callback){ console.log(callback.toString()); })(logShout);  
 
 describe('logWhisper(string)'), function() {
   it('calls console.log() its one argument in all lowercase', function() {
