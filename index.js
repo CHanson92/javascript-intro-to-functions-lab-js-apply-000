@@ -31,7 +31,8 @@ describe('logShout(string)', function() {
   })
 })
 
-
+function logShout(string)
+console.log(string.toUpperCase)
 
 describe('logWhisper(string)'), function() {
   it('calls console.log() its one argument in all lowercase', function() {
