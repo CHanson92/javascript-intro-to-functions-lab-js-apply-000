@@ -32,7 +32,7 @@ describe('logShout(string)', function() {
 })
 
 function logShout() {
-  console.log("")
+  console.log("hello!")
 }
 
 describe('logWhisper(string)'), function() {
