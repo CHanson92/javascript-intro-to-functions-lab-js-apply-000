@@ -32,7 +32,8 @@ describe('logShout(string)', function() {
 })
 
 function logShout() {
-  var spy = "hello"
+  var spy = "hello".toUpperCase()
+  console.log()
 }
 
 describe('logWhisper(string)'), function() {
