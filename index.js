@@ -32,7 +32,7 @@ describe('logShout(string)', function() {
 })
 
 function logShout() {
-  
+  var spy 
 }
 
 describe('logWhisper(string)'), function() {
