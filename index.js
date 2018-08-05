@@ -31,7 +31,13 @@ describe('logShout(string)', function() {
   })
 })
 
-function logShout(string) {
+
+down vote
+var nameString = function(name) {
+  return "Hi, I am" + " " + name
+  nameString("Sophie");
+}
+console.log(nameString("Sophie"));
 
 describe('logWhisper(string)'), function() {
   it('calls console.log() its one argument in all lowercase', function() {
